@@ -28,6 +28,9 @@ Applicazione sviluppata insieme alla classe FullStack Developers
 
 
 cd ./refactoring
+
 npm install
+
 npm run start
+
 Avviare Golive da VSCode per la parte frontEnd
