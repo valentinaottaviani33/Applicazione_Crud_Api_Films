@@ -26,3 +26,8 @@ Applicazione sviluppata insieme alla classe FullStack Developers
 | Java |Logic       | ES7      |
 | Node |Backend     | 22.20    |
 
+
+cd ./refactoring
+npm install
+npm run start
+Avviare Golive da VSCode per la parte frontEnd
